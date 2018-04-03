@@ -1,6 +1,8 @@
 # bulma-balloon.css
 balloon.css for Bulma.io
 
+<a href="https://alexgru.github.io/bulma-balloon.css/">Demo</a>
+
 This <a href="https://github.com/kazzkiq/balloon.css">balloon.scss</a> for <a href="https://bulma.io/">Bulma.io</a>
 
 <h2>Example of code</h2>
